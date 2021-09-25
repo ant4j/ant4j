@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Antonio Forgianni
 - 👀 I’m interested in Backend Engineering
 - 🌱 I’m currently learning Serverless computing
-- 💞️ I’m looking to collaborate on a project for sharing text, called community-app
+- 💞️ I’m looking to collaborate on a project for sharing text, called CommunityApp
 - 📫 How to reach me: linkedin.com/in/antforg
 
 <!---
