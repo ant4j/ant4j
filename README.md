@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio Forgianni
 - 👀 I’m interested in Backend Engineering
-- 🌱 I’m currently learning Serverless computing
+- 🌱 I’m currently learning serverless computing
 - 📫 How to reach me: linkedin.com/in/antforg
 
 <!---
